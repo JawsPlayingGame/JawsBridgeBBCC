@@ -1,22 +1,19 @@
-Bridge BBCC
-===
-version 0.3.0
+# 게임하는 죠스님을 위한 BBCC 디씨콘 채팅창 (죠스콘, Bridge BBCC for pgjaws)
+JawsBridgeBBCC v0.1.0
 
+## 채널
 
+https://www.twitch.tv/pgjaws
 
-## Usage
-To compile browserified.js, use that on comandline
-(node, npm, and browserify required)
-```
-npm start
-```
-If you don't want to modify source files, just use released version.
+## 채팅창
 
-readme.txt 참조
-윈도우, XSplit 외의 환경에서 동작이 보증되지 않음
+`client.html`
+을 브라우저 소스로 캡처
 
-크롬 등 브라우저를 통해 이용 시 클립 미리보기 등 일부 기능이 동작하지 않음
+## 죠스콘 목록
+https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=https://cdn.jsdelivr.net/gh/JawsPlayingGame/JawsBridgeBBCC/lib/dccon_list.json
 
+위 url이 정상작동하면
 
 ## License
 MIT
@@ -24,5 +21,7 @@ MIT
 ## Reference
 [JSAssist Open DCcon](https://github.com/rishubil/jsassist-open-dccon)
 By [rishubil]((https://github.com/rishubil), 2017, MIT License.
+
+Fade out effect by **yyw10242**
 
 [Twitch Developer Documentation](https://dev.twitch.tv/docs)

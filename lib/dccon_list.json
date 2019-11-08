@@ -1,0 +1,13 @@
+{
+    "dccons": [
+        {"keywords" : ["죠습니다"],   "tags": ["게임하는죠스"],  "path": "https://i.ibb.co/R7fmJB0/image.png"},
+        
+        {"keywords" : ["태양만세"],   "tags": ["다크소울", "인사"],  "path": "https://i.ibb.co/vzt0j20/image.jpg"},
+
+        {"keywords" : ["도공"],   "tags": ["래트로폴리스"],  "path": "https://i.ibb.co/YTxZ2G9/image.png"},
+
+        {"keywords" : ["우리핵안녕"],   "tags": ["우리핵", "움짤", "인사"],  "path": "https://puu.sh/sYGNQ/a17abeb117.gif"},
+        {"keywords" : ["우리핵박수, 우리핵박수1"],   "tags": ["우리핵", "움짤", "박수"],  "path": "https://puu.sh/sYGQM/1887cb7d57.gif"},
+        {"keywords" : ["우리핵박수2"],  "tags": ["우리핵", "움짤", "박수"],  "path": "https://puu.sh/sYGTB/b97640a2ee.gif"}        
+    ]
+  }
