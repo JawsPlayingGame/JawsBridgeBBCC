@@ -1,8 +1,6 @@
 # 죠스콘
 ## 게임하는 죠스님을 위한 BBCC 디씨콘 채팅창 (Bridge BBCC for pgjaws)
-JawsBridgeBBCC v0.1.4
-
-======
+JawsBridgeBBCC v0.1.5
 
 ## 설정법
 0. '게임하는죠스' 채널 기준으로 작성됨
@@ -18,8 +16,6 @@ JawsBridgeBBCC v0.1.4
 - bit.ly/jawscon-list
 
 위 링크가 동작하지 않으면, [여기](https://rishubil.github.io/jsassist-open-dccon/#/list?dccon_list=https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/lib/dccon_list.json)를 클릭. 여기도 망가지면 관리자에게 문의
-
-======
 
 ## License
 MIT
