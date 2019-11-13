@@ -1,16 +1,16 @@
 {
     "dccons": [
-        {"keywords" : ["죠습니다"],   "tags": ["게임하는죠스"],  "path": "https://i.ibb.co/R7fmJB0/image.png"},
+        {"keywords" : ["죠습니다"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠습니다.png"},
         
-        {"keywords" : ["태양만세", "Y"],   "tags": ["다크소울", "인사"],  "path": "https://i.ibb.co/vzt0j20/image.jpg"},
+        {"keywords" : ["태양만세", "Y"],   "tags": ["다크소울", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/태양만세.jpg"},
 
-        {"keywords" : ["도공"],   "tags": ["래트로폴리스"],  "path": "https://i.ibb.co/YTxZ2G9/image.png"},
+        {"keywords" : ["도공"],   "tags": ["래트로폴리스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/래트로_도공.png"},
 
-        {"keywords" : ["우리핵안녕"],   "tags": ["우리핵", "움짤", "인사"],  "path": "https://puu.sh/sYGNQ/a17abeb117.gif"},
-        {"keywords" : ["우리핵박수"],   "tags": ["우리핵", "움짤", "박수"],  "path": "https://puu.sh/sYGQM/1887cb7d57.gif"},
-        {"keywords" : ["우리핵박수2"],  "tags": ["우리핵", "움짤", "박수"],  "path": "https://puu.sh/sYGTB/b97640a2ee.gif"},
+        {"keywords" : ["우리핵안녕"],   "tags": ["우리핵", "움짤", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵안녕.gif"},
+        {"keywords" : ["우리핵박수"],   "tags": ["우리핵", "움짤", "박수"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵박수.gif"},
+        {"keywords" : ["우리핵박수2"],  "tags": ["우리핵", "움짤", "박수"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵박수2.gif"},
 
-        {"keywords" : ["편안"],  "tags": ["광고", "개비스콘"],  "path": "https://i.ibb.co/BTFSmJ8/image.png"},
-        {"keywords" : ["불편"],  "tags": ["광고", "개비스콘"],  "path": "https://i.ibb.co/DR7hn2D/image.png"}
+        {"keywords" : ["편안", "good"],  "tags": ["광고", "개비스콘", "English"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/편안.png"},
+        {"keywords" : ["불편", "bad"],  "tags": ["광고", "개비스콘", "English"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/불편.png"}
     ]
   }
