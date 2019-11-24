@@ -1,5 +1,7 @@
 ﻿/* 폰트 로드 */
-@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+/* @import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css); */
+/* @import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css'); */
+@import url('https://fonts.googleapis.com/earlyaccess/jejugothic.css');
 
 /* 위치 기본 설정 */
 html {
@@ -68,9 +70,9 @@ img.dccon {
 
 /* 폰트 설정 */
 html {
-    font-family: 'NanumSquare';
+    font-family: 'Jeju Gothic';
     font-size: 19px;
-    font-weight: bold;
+    font-weight: normal;
     /*max-height: 170px;*/
 	color: white;
 	text-shadow: 
@@ -109,7 +111,7 @@ html {
 .chat_badge_box {
 	float: left;
 	margin-left: 0px;
-	margin-top: 3px;
+	margin-top: 2px;
 	margin-right: 3px;
 }
 
