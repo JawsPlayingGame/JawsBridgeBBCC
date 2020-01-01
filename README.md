@@ -1,6 +1,6 @@
 # 죠스콘
 ## 게임하는 죠스님을 위한 BBCC 디씨콘 채팅창 (Bridge BBCC for pgjaws)
-JawsBridgeBBCC v0.1.8
+JawsBridgeBBCC v0.1.9
 
 ## 설정법
 0. '게임하는죠스' 채널 기준으로 작성됨

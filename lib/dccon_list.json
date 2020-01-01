@@ -1,10 +1,15 @@
 {
     "dccons": [
         {"keywords" : ["죠습니다"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠습니다.png"},
+        {"keywords" : ["죠스박어"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠스박어.png"},
+        {"keywords" : ["죠하"],   "tags": ["게임하는죠스", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠하.png"},
+        {"keywords" : ["죠바"],   "tags": ["게임하는죠스", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠바.png"},
         
         {"keywords" : ["태양만세", "Y"],   "tags": ["다크소울", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/태양만세.jpg"},
 
         {"keywords" : ["도공"],   "tags": ["래트로폴리스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/래트로_도공.png"},
+
+        {"keywords" : ["머포", "ㅁㅍ"],   "tags": ["롤"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/머포.png"},
 
         {"keywords" : ["우리핵안녕"],   "tags": ["우리핵", "움짤", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵안녕.gif"},
         {"keywords" : ["우리핵박수"],   "tags": ["우리핵", "움짤", "박수"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵박수.gif"},
