@@ -2,9 +2,10 @@
     "dccons": [
         {"keywords" : ["죠습니다"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠습니다.png"},
         {"keywords" : ["죠스박어"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠스박어.png"},
+        {"keywords" : ["죠바스보", "바보"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠바스보.png"},
         {"keywords" : ["죠하"],   "tags": ["게임하는죠스", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠하.png"},
         {"keywords" : ["죠바"],   "tags": ["게임하는죠스", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠바.png"},
-        
+
         {"keywords" : ["감사", "제리감사"],   "tags": ["톰과제리", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/제리감사.gif"},
 
         {"keywords" : ["태양만세", "Y"],   "tags": ["다크소울", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/태양만세.jpg"},
