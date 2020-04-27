@@ -4,10 +4,13 @@
         {"keywords" : ["죠스박어"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠스박어.png"},
         {"keywords" : ["죠바스보", "바보"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠바스보.png"},
         {"keywords" : ["보스바죠", "보바"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/보스바죠.png"},
+        {"keywords" : ["죠스워닝", "워닝"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠스워닝.png"},
+        {"keywords" : ["죠스워닝2", "워닝2"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠스워닝2.png"},
+        {"keywords" : ["죠스찍", "찍"],   "tags": ["게임하는죠스"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠스찍.png"},
         {"keywords" : ["죠하"],   "tags": ["게임하는죠스", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠하.png"},
         {"keywords" : ["죠바"],   "tags": ["게임하는죠스", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠바.png"},
 
-        {"keywords" : ["감사", "제리감사"],   "tags": ["톰과제리", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/제리감사.gif"},
+        {"keywords" : ["제리감사", "감사"],   "tags": ["톰과제리", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/제리감사.gif"},
 
         {"keywords" : ["태양만세", "Y"],   "tags": ["다크소울", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/태양만세.jpg"},
         {"keywords" : ["힘의차이", "power"],   "tags": ["다크소울"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/죠스힘의차이.png"},
@@ -20,6 +23,9 @@
         {"keywords" : ["우리핵안녕"],   "tags": ["우리핵", "움짤", "인사"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵안녕.gif"},
         {"keywords" : ["우리핵박수"],   "tags": ["우리핵", "움짤", "박수"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵박수.gif"},
         {"keywords" : ["우리핵박수2"],  "tags": ["우리핵", "움짤", "박수"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/우리핵박수2.gif"},
+
+        {"keywords" : ["관짝행진", "관짝", "행진"],   "tags": ["관짝밈", "움짤"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/관짝행진.gif"},
+        {"keywords" : ["관짝시선", "관짝등장", "시선"],   "tags": ["관짝밈", "움짤"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/관짝시선.gif"},
 
         {"keywords" : ["편안", "good"],  "tags": ["광고", "개비스콘", "English"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/편안.png"},
         {"keywords" : ["불편", "bad"],  "tags": ["광고", "개비스콘", "English"],  "path": "https://raw.githubusercontent.com/JawsPlayingGame/JawsBridgeBBCC/master/images/dccon/불편.png"}
